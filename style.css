@@ -1,0 +1,40 @@
+.first-section{
+    background-color: #274753;
+    width:100%;
+    background-size: 400%;
+    height: auto;
+}
+
+.first-section-text{
+    color: #c9c2c2;
+}
+
+.purchase-button-design{
+    background-color: #e76f51;
+    color: #ffffff;
+    width:120px;
+    height: 35px;
+    border:none;
+    border-radius:6%;
+}
+
+.second-section img {
+    height: 250px;
+    width: 250px;
+}
+
+.feature-bike-grey{
+    filter:grayscale(100%); 
+}
+
+.card-image-desgin{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.questions{
+    border:1px solid rgb(182, 226, 145);
+    padding:20px;
+    margin:3px;
+}
